@@ -4,9 +4,9 @@
 
 - [x] `quiz.py` 파일을 만든다.
 - [x] `Quiz` 클래스에 `question`, `choices`, `answer`를 저장하는 `__init__` 메서드를 만든다.
-- [ ] 퀴즈 내용을 출력하는 메서드와 정답 번호가 맞는지 확인하는 메서드를 만든다.
-- [ ] `main.py`에서 `Quiz` 하나를 만들어 출력해 본다.
-- [ ] 커밋한다: `git add main.py quiz.py && git commit -m "Feat: Quiz 클래스 구현" && git push`
+- [x] 퀴즈 내용을 출력하는 메서드와 정답 번호가 맞는지 확인하는 메서드를 만든다.
+- [x] `main.py`에서 `Quiz` 하나를 만들어 출력해 본다.
+- [x] 커밋한다: `git add main.py quiz.py && git commit -m "Feat: Quiz 클래스 구현" && git push`
 
 ## 배운 것
 
